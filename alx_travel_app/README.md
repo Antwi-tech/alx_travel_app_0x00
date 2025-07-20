@@ -6,7 +6,7 @@ This Django project is a simple travel booking API that allows users to view lis
 
 ```
 
-alx\_travel\_app\_0x00/
+alx_travel_app/
 ├── listings/
 │   ├── models.py
 │   ├── serializers.py
